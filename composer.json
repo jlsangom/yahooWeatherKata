@@ -1,8 +1,8 @@
 {
-    "name": "kata/php",
-    "description": "PHP Kata skeleton",
+    "name": "jlsangon/yahooWeaterKata",
+    "description": "Kata YahooWeater",
     "keywords": ["kata","TDD"],
-    "homepage": "https://github.com/carlosbuenosvinos/php-kata",
+    "homepage": "https://github.com/jlsangom/yahooWeatherKata",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "3.7.*@dev",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Carlos Buenosvinos",
-            "email": "hi@carlos.io"
+            "name": "",
+            "email": ""
         }
     ],
     "autoload": {
