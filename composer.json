@@ -13,8 +13,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "Jose Luis Santos",
+            "name": "Juan Jose Maturana",
+            "name": "Carlos Sanchez",
         }
     ],
     "autoload": {
